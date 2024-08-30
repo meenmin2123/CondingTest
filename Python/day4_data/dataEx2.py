@@ -41,7 +41,7 @@ def placeCode_select(nx, ny):
     
     
 # 부여받은 서비스 키
-serviceKey = "07gvxDaxlMsHsnqKIEKfBZvrvGeMZeW1aPh4H7f%2F5nFEufhp%2Beal5njV1knK67uvRlHrwdrbDge%2BG1ni00WMvQ%3D%3D"
+serviceKey = "#"
 # base_date = '20240830'
 # base_time = '1500'
 nx = '60'      # 예보 지점(x좌표)
